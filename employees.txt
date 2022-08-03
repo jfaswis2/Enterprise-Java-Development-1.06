@@ -1,0 +1,80 @@
+Id: 58
+Nombre: Alex
+Apellidos: Rodriguez
+Puesto: Desarrollador Mobile Junior
+Salario: 20000.0
+
+==================
+
+Id: 23
+Nombre: Jhon
+Apellidos: Aristizabal
+Puesto: Desarrollador Back-end Junior
+Salario: 17000.0
+
+==================
+
+Id: 53
+Nombre: Alejandra
+Apellidos: Ortiz
+Puesto: Desarrollador Mobile Junior
+Salario: 15000.0
+
+==================
+
+Id: 51
+Nombre: Raul
+Apellidos: Sanchez
+Puesto: Desarrollador Front-end Junior
+Salario: 12000.0
+
+==================
+
+Id: 57
+Nombre: Jhonatan
+Apellidos: Echeverry
+Puesto: Desarrollador Front-end Junior
+Salario: 20000.0
+
+==================
+
+Id: 25
+Nombre: Lucía
+Apellidos: Vásquez
+Puesto: Desarrrollador Front-end
+Salario: 45000.0
+
+==================
+
+Id: 26
+Nombre: Nancy
+Apellidos: Insuasty
+Puesto: Desarrrollador Front-end
+Salario: 35000.0
+
+==================
+
+Id: 27
+Nombre: Jose
+Apellidos: Aristizabal
+Puesto: Desarrrollador Front-end
+Salario: 48000.0
+
+==================
+
+Id: 28
+Nombre: Rosa
+Apellidos: Marin
+Puesto: Desarrrollador Front-end
+Salario: 32000.0
+
+==================
+
+Id: 29
+Nombre: Marcos
+Apellidos: Alonso
+Puesto: Desarrrollador Front-end
+Salario: 30000.0
+
+==================
+
