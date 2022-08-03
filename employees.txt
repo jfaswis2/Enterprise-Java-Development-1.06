@@ -41,7 +41,7 @@ Salario: 20000.0
 Id: 25
 Nombre: Lucía
 Apellidos: Vásquez
-Puesto: Desarrrollador Front-end
+Puesto: Desarrrollador Back-end Senior
 Salario: 45000.0
 
 ==================
@@ -49,7 +49,7 @@ Salario: 45000.0
 Id: 26
 Nombre: Nancy
 Apellidos: Insuasty
-Puesto: Desarrrollador Front-end
+Puesto: Desarrrollador Mobile Senior
 Salario: 35000.0
 
 ==================
@@ -57,7 +57,7 @@ Salario: 35000.0
 Id: 27
 Nombre: Jose
 Apellidos: Aristizabal
-Puesto: Desarrrollador Front-end
+Puesto: Desarrrollador Mobile Senior
 Salario: 48000.0
 
 ==================
@@ -65,7 +65,7 @@ Salario: 48000.0
 Id: 28
 Nombre: Rosa
 Apellidos: Marin
-Puesto: Desarrrollador Front-end
+Puesto: Desarrrollador Front-end Senior
 Salario: 32000.0
 
 ==================
@@ -73,7 +73,7 @@ Salario: 32000.0
 Id: 29
 Nombre: Marcos
 Apellidos: Alonso
-Puesto: Desarrrollador Front-end
+Puesto: Desarrrollador Back-end Senior
 Salario: 30000.0
 
 ==================
