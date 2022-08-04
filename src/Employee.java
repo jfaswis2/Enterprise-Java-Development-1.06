@@ -13,17 +13,6 @@ public class Employee {
         setSalario(salario);
     }
 
-    public Employee(int id, String nombre, String apellidos, String puesto) {
-        setId(id);
-        setNombre(nombre);
-        setApellidos(apellidos);
-        setPuesto(puesto);
-    }
-
-    public Employee(int salario) {
-        this.salario = salario;
-    }
-
     public int getId() {
         return id;
     }

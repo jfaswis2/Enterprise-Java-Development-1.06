@@ -16,22 +16,12 @@ public class Main {
         Employee employee4 = new Employee(28,"Rosa", "Marin", "Desarrrollador Front-end Senior", 32000);
         Employee employee5 = new Employee(29,"Marcos", "Alonso", "Desarrrollador Back-end Senior", 30000);
 
-        List<Employee> employeeList = new ArrayList<>();
-        employeeList.add(pasante1);
-        employeeList.add(pasante2);
-        employeeList.add(pasante3);
-        employeeList.add(pasante4);
-        employeeList.add(pasante5);
-        employeeList.add(employee1);
-        employeeList.add(employee2);
-        employeeList.add(employee3);
-        employeeList.add(employee4);
-        employeeList.add(employee5);
+        Employee[] employees = {pasante1,pasante2,pasante3,pasante4,pasante5,employee1,employee2,employee3,employee4,employee5};
 
-        empleadosTxt(employeeList);
+        empleadosTxt(employees);
     }
 
-    public static void empleadosTxt(List<Employee> employeeList) throws IOException {
+    public static void empleadosTxt(Employee[] employeeList) throws IOException {
         FileWriter fileWriter = new FileWriter("employees.txt");
         for (Employee employee:employeeList) {
             fileWriter.write("Id: " + employee.getId() + "\n"
